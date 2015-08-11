@@ -1,10 +1,10 @@
 {
   "adminTags": [
-    "admin_tag1",
-    "admin_tag2"
+    "it",
+    "internally_requested"
   ],
   "agentTags": [
-    "agent_tag1",
-    "agent_tag2"
+    "iphone_5",
+    "ipad_mini"
   ]
 }
