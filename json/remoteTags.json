@@ -1,0 +1,10 @@
+{
+  "adminTags": [
+    "admin_tag1",
+    "admin_tag2"
+  ],
+  "agentTags": [
+    "agent_tag1",
+    "agent_tag2"
+  ]
+}
