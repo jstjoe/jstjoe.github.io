@@ -2,8 +2,8 @@
 
 **You can call me Joe.**
 
-- resume = [resume.html](https://jstjoe.github.io/docs/resume) || [resume.md](https://jstjoe.github.io/docs/resume.md)
-- profile = [github/@jstjoe](https://github.com/jstjoe) || [linkedin/@jstjoe](https://www.linkedin.com/in/jstjoe/)
+- [resume.html](https://jstjoe.github.io/docs/resume) || [resume.md](https://jstjoe.github.io/docs/resume.md)
+- [github/@jstjoe](https://github.com/jstjoe) || [linkedin/@jstjoe](https://www.linkedin.com/in/jstjoe/)
 
 ## Basic info
 
