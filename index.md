@@ -1,22 +1,24 @@
 # Joseph McCarron
 
-You can call me Joe.
+**You can call me Joe.**
 
 ## Links
 
-- [resume.html](https://jstjoe.github.io/resume)
-- [resume.md](https://jstjoe.github.io/resume)
-- [github/@jstjoe](https://github.com/jstjoe)
-- [linkedin/@jstjoe](https://www.linkedin.com/in/jstjoe/)
+- [[resume.html](https://jstjoe.github.io/resume)]
+- [[resume.md](https://jstjoe.github.io/resume)]
+- [[github/@jstjoe](https://github.com/jstjoe)]
+- [[linkedin/@jstjoe](https://www.linkedin.com/in/jstjoe/)]
 
 ## Basic info
 
 - Born in rural Minnesota.
-- Raised in the expat community in Warsaw, Poland.
+- Raised overseas in Warsaw, Poland.
 - Educated at the University of Minnesota.
 - Studied abroad at Russian Spy School (MGIMO, lol).
-- Forged in San Francisco startups.
+- Built great products in San Francisco startups.
 - Currently expanding horizons in Austin, TX.
+- Hungry, foolish, and friendly.
+- What are we building?
 
 ## Projects
 
