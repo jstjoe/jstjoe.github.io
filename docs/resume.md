@@ -1,7 +1,8 @@
-# Joseph McCarron
+# Joseph McCarron | Platform Product Leader
 
-**Platform Product Leader**  
-[github/jstjoe](https://github.com/jstjoe) | [linkedin/jstjoe](https://www.linkedin.com/in/jstjoe/)
+[[markdown](https://jstjoe.github.io/docs/resume.md)] / [[html](https://jstjoe.github.io/docs/resume)]
+
+[[github/jstjoe](https://github.com/jstjoe)] / [[linkedin/jstjoe](https://www.linkedin.com/in/jstjoe/)]
 
 ## OVERVIEW
 
@@ -17,11 +18,11 @@ Strategic product leader with a proven track record of creating category-definin
 
 ## EXPERIENCE
 
-### Product Engineering
+### Product Engineering, Management, Leadership
 
-#### Head of Product, Core Platform | [Skyflow](https://www.skyflow.com/)
+#### Head of Product, Core Platform at [Skyflow](https://www.skyflow.com/)
 
-*Apr 2025 - Present*
+(*Apr 2025 - Present*)
 
 Recently promoted to manage the overall platform and drive improvements and deeper integrations across existing and emerging products, as well as drive hands-on engagements with top enterprise customers.
 
@@ -32,7 +33,7 @@ Recently promoted to manage the overall platform and drive improvements and deep
 
 #### Product Lead | [Skyflow](https://www.skyflow.com/)
 
-*Jan 2022 - Apr 2025*
+(*Jan 2022 - Apr 2025*)
 
 Leading product strategy and execution for Skyflow's data privacy vault and developer experience platform.
 
@@ -43,7 +44,7 @@ Leading product strategy and execution for Skyflow's data privacy vault and deve
 
 #### Co-Founder and CTO | [TeamTeacher.ai](https://www.teamteacher.ai/)
 
-*May 2024 - Present (Part-time)*
+(*May 2024 - Present (Part-time)*)
 
 Solo engineer and CTO building an AI teaching assistant agent for educators, partnering with my sister (a teacher) as CEO.
 
@@ -57,7 +58,7 @@ Solo engineer and CTO building an AI teaching assistant agent for educators, par
 
 #### Staff Product Manager | [Apollo GraphQL](https://apollographql.com)
 
-*Oct 2020 - Jan 2022*
+(*Oct 2020 - Jan 2022*)
 
 Led platform product strategy for the Apollo GraphQL Platform including Apollo Studio, Schema Checks, Build Checks, Uplink, Schema Contracts and more.
 
@@ -67,7 +68,7 @@ Led platform product strategy for the Apollo GraphQL Platform including Apollo S
 
 #### Group Product Manager, APIs & Platform | [Zendesk](https://www.zendesk.com/)
 
-*Jul 2019 - Jan 2020*
+(*Jul 2019 - Jan 2020*)
 
 Led Zendesk's transformative platform initiative, creating a new category in the CRM space with Sunshine, built natively on AWS.
 
@@ -80,7 +81,7 @@ Led Zendesk's transformative platform initiative, creating a new category in the
 
 #### Lead Product Manager, Platform | [Zendesk](https://www.zendesk.com/)
 
-*Jul 2018 - Jul 2019*
+(*Jul 2018 - Jul 2019*)
 
 Spearheaded the development and launch of Zendesk Sunshine, a modern CRM platform that fundamentally changed Zendesk's market position.
 
@@ -91,7 +92,7 @@ Spearheaded the development and launch of Zendesk Sunshine, a modern CRM platfor
 
 #### Senior Product Manager, Platform | [Zendesk](https://www.zendesk.com/)
 
-*Jan 2018 - Jul 2018*
+(*Jan 2018 - Jul 2018*)
 
 Drove platform strategy working directly with executive leadership to shape Zendesk's technical future.
 
@@ -100,9 +101,9 @@ Drove platform strategy working directly with executive leadership to shape Zend
 - Led adoption of modern platform technologies including Kubernetes, Cassandra DB, Kafka, and AWS infrastructure.
 - Acted as product partner ("Product Architect") to the Global Architecture team, driving technical consistency across product lines.
 
-#### Product Manager, Platform | [Zendesk](https://www.zendesk.com/)
+#### Product Manager, APIs | [Zendesk](https://www.zendesk.com/)
 
-*Feb 2016 - Jan 2018*
+(*Feb 2016 - Jan 2018*)
 
 Established API product management discipline as Zendesk's first API-focused PM, creating foundational platform capabilities.
 
@@ -116,7 +117,7 @@ Established API product management discipline as Zendesk's first API-focused PM,
 
 #### Product Solutions Manager, Platform (& Manager of Paid Apps) | [Zendesk](https://www.zendesk.com/)
 
-*Feb 2015 - Feb 2016*
+(*Feb 2015 - Feb 2016*)
 
 Pioneered technical solutions for enterprise platform customers and created the first paid apps development team.
 
@@ -128,7 +129,7 @@ Pioneered technical solutions for enterprise platform customers and created the 
 
 #### Solutions Architect (& Engineer) | [Zendesk](https://www.zendesk.com/)
 
-*Oct 2013 - Feb 2015*
+(*Oct 2013 - Feb 2015*)
 
 Established the Solutions Architecture practice as the first Solutions Architect at Zendesk, creating technical solutions for enterprise customers.
 
@@ -141,9 +142,9 @@ Established the Solutions Architecture practice as the first Solutions Architect
 
 #### Level 1 Customer Advocate -> Support Engineering Team Lead | [Zendesk](https://www.zendesk.com/)
 
-*Apr 2012 - Oct 2013*
+(*Apr 2012 - Oct 2013*)
 
-- From "Hello this is Joe from Zendesk, how can I help?" as employee 227, to creating and leading the Support Engineering team and beyond.
+- Went from *"Hello this is Joe from Zendesk, how can I help?"* as employee 227, to creating and leading the Support Engineering team and beyond.
 - Specialized in API, webhook, and integration troubleshooting for enterprise customers. Worked with engineering on API improvements and bug fixes as the defacto API PM.
 - Developed apps and documented solutions for common platform integration patterns.
 - Built and improved testing tools including JWT debuggers, SAML debuggers, mobile app testing tools, and much more - with many still in use today.
@@ -152,12 +153,19 @@ Established the Solutions Architecture practice as the first Solutions Architect
 
 ## SKILLS
 
-- Power user of agentic AI tools, champion of the context window. Recents favorites: Cline (OSS VSCode extension), Claude Code CLI & GitHub Actions, Claude Desktop with File System, ChatGPT Desktop with VSCode plugin, OpenAI Codex, MCPs: Browserbase, Sentry, Supabase, Figma, 7Context.
+- Power user of agentic AI tools, champion of the context window.
+  - [IDE] Cline (OSS VSCode extension)
+  - [CLI] Claude Code CLI & GitHub Actions
+  - [UI] Claude Desktop with File System
+    - ChatGPT Desktop with VSCode plugin
+    - Codex UI
+  - [MCP] Browserbase, Sentry, Supabase, Figma, 7Context.
+  - [LLM] LM Studio
 - Organization, documentation, communication, automation.
--
+- Making building fun. I love what we do.
 
 ## EDUCATION
 
 - **Harvard Business School** - Data Privacy Certificate Program (2023)
 - **Moscow State Institute of International Relations (MGIMO)** - Summer Program, Russian Politics & Economics (2010)
-- **BA Political Science & Economics**, Minor in Business Management - University of Minnesota (2012)
+- **University of Minnesota** - BA Political Science & Economics, Minor in Business Management (2012)
