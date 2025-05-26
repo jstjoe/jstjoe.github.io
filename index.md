@@ -20,10 +20,16 @@ You can call me Joe.
 
 ## Projects
 
+### Active
+
 - [TeamTeacher](https://www.teamteacher.ai/)
 - [Doc Detective](https://doc-detective.com/)
+- [SkyflowFoundry](https://github.com/SkyflowFoundry)
+
+<!-- ### Legacy
+
 - [TODO]
 
 ## Working with me
 
-- [TODO]
+- [TODO] -->
