@@ -4,8 +4,8 @@
 
 ## Links
 
-- [[resume.html](https://jstjoe.github.io/resume)]
-- [[resume.md](https://jstjoe.github.io/resume)]
+- [[resume.html](https://jstjoe.github.io/docs/resume)]
+- [[resume.md](https://jstjoe.github.io/docs/resume.md)]
 - [[github/@jstjoe](https://github.com/jstjoe)]
 - [[linkedin/@jstjoe](https://www.linkedin.com/in/jstjoe/)]
 
