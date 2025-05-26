@@ -4,10 +4,10 @@ You can call me Joe.
 
 ## Links
 
-- [Resume: Web page](https://jstjoe.github.io/resume)
-- [Resume: Markdown](https://jstjoe.github.io/resume)
-- [github/jstjoe](https://github.com/jstjoe)
-- [linkedin/jstjoe](https://www.linkedin.com/in/jstjoe/)
+- [resume.html](https://jstjoe.github.io/resume)
+- [resume.md](https://jstjoe.github.io/resume)
+- [github/@jstjoe](https://github.com/jstjoe)
+- [linkedin/@jstjoe](https://www.linkedin.com/in/jstjoe/)
 
 ## Basic info
 
