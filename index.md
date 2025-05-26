@@ -1,4 +1,4 @@
-# Joseph McCarron
+# @jstjoe
 
 **You can call me Joe.**
 
