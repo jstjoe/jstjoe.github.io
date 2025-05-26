@@ -4,31 +4,9 @@
 
 [[github/jstjoe](https://github.com/jstjoe)] / [[linkedin/jstjoe](https://www.linkedin.com/in/jstjoe/)]
 
-## CONTENTS
-
-- [Joseph McCarron | Platform Product Leader](#joseph-mccarron--platform-product-leader)
-  - [CONTENTS](#contents)
-  - [OVERVIEW](#overview)
-  - [EXPERIENCE](#experience)
-    - [Product Engineering, Management, Leadership](#product-engineering-management-leadership)
-      - [Head of Product, Core Platform | Skyflow](#head-of-product-core-platform--skyflow)
-      - [Product Lead | Skyflow](#product-lead--skyflow)
-      - [Co-Founder and CTO | TeamTeacher.ai](#co-founder-and-cto--teamteacherai)
-      - [Staff Product Manager | Apollo GraphQL](#staff-product-manager--apollo-graphql)
-      - [Group Product Manager, APIs \& Platform | Zendesk](#group-product-manager-apis--platform--zendesk)
-      - [Lead Product Manager, Platform | Zendesk](#lead-product-manager-platform--zendesk)
-      - [Senior Product Manager, Platform | Zendesk](#senior-product-manager-platform--zendesk)
-      - [Product Manager, APIs | Zendesk](#product-manager-apis--zendesk)
-      - [Product Solutions Manager, Platform | Zendesk](#product-solutions-manager-platform--zendesk)
-      - [Solutions Architect (\& Engineer) | Zendesk](#solutions-architect--engineer--zendesk)
-      - [Level 1 Customer Advocate -\> Support Engineering Team Lead | Zendesk](#level-1-customer-advocate---support-engineering-team-lead--zendesk)
-  - [SKILLS](#skills)
-  - [EDUCATION](#education)
-
-
 ## OVERVIEW
 
-<ul>*I love APIs, Agents, and platforms.*</ul>
+>*I love APIs, Agents, and platforms.*
 
 Strategic product leader with a proven track record of creating category-defining technical platforms and APIs at scale.
 
