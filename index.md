@@ -2,12 +2,8 @@
 
 **You can call me Joe.**
 
-## Links
-
-- [[resume.html](https://jstjoe.github.io/docs/resume)]
-- [[resume.md](https://jstjoe.github.io/docs/resume.md)]
-- [[github/@jstjoe](https://github.com/jstjoe)]
-- [[linkedin/@jstjoe](https://www.linkedin.com/in/jstjoe/)]
+- resume = [resume.html](https://jstjoe.github.io/docs/resume) || [resume.md](https://jstjoe.github.io/docs/resume.md)
+- profile = [github/@jstjoe](https://github.com/jstjoe) || [linkedin/@jstjoe](https://www.linkedin.com/in/jstjoe/)
 
 ## Basic info
 
@@ -24,14 +20,18 @@
 
 ### Active
 
-- [TeamTeacher](https://www.teamteacher.ai/)
-- [Doc Detective](https://doc-detective.com/)
-- [SkyflowFoundry](https://github.com/SkyflowFoundry)
+- [TeamTeacher](https://www.teamteacher.ai/) - Developer
+- [Doc Detective](https://doc-detective.com/) - Operator
+- [SkyflowFoundry](https://github.com/SkyflowFoundry) - Creator
+- [Skyflow](https://www.skyflow.com) - Product Lead
 
-<!-- ### Legacy
+### Previous
 
-- [TODO]
-
-## Working with me
-
-- [TODO] -->
+- [Apollo Schema Contracts](https://www.apollographql.com/docs/graphos/platform/schema-management/delivery/contracts/overview)
+- [Apollo Platform API](https://www.apollographql.com/docs/graphos/platform/platform-api)
+- [Apollo Metrics](https://www.apollographql.com/docs/graphos/platform/insights)
+- [Apollo Schema Management](https://www.apollographql.com/docs/graphos/platform/schema-management)
+- [Zendesk Platform](https://developer.zendesk.com/documentation/)
+- [Zendesk Channel Framework](https://developer.zendesk.com/documentation/channel_framework/)
+- [Zendesk Custom Objects](https://developer.zendesk.com/documentation/custom-data/)
+- [Zendesk API](https://developer.zendesk.com/api-reference/)
