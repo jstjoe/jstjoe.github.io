@@ -4,9 +4,31 @@
 
 [[github/jstjoe](https://github.com/jstjoe)] / [[linkedin/jstjoe](https://www.linkedin.com/in/jstjoe/)]
 
+## CONTENTS
+
+- [Joseph McCarron | Platform Product Leader](#joseph-mccarron--platform-product-leader)
+  - [CONTENTS](#contents)
+  - [OVERVIEW](#overview)
+  - [EXPERIENCE](#experience)
+    - [Product Engineering, Management, Leadership](#product-engineering-management-leadership)
+      - [Head of Product, Core Platform | Skyflow](#head-of-product-core-platform--skyflow)
+      - [Product Lead | Skyflow](#product-lead--skyflow)
+      - [Co-Founder and CTO | TeamTeacher.ai](#co-founder-and-cto--teamteacherai)
+      - [Staff Product Manager | Apollo GraphQL](#staff-product-manager--apollo-graphql)
+      - [Group Product Manager, APIs \& Platform | Zendesk](#group-product-manager-apis--platform--zendesk)
+      - [Lead Product Manager, Platform | Zendesk](#lead-product-manager-platform--zendesk)
+      - [Senior Product Manager, Platform | Zendesk](#senior-product-manager-platform--zendesk)
+      - [Product Manager, APIs | Zendesk](#product-manager-apis--zendesk)
+      - [Product Solutions Manager, Platform | Zendesk](#product-solutions-manager-platform--zendesk)
+      - [Solutions Architect (\& Engineer) | Zendesk](#solutions-architect--engineer--zendesk)
+      - [Level 1 Customer Advocate -\> Support Engineering Team Lead | Zendesk](#level-1-customer-advocate---support-engineering-team-lead--zendesk)
+  - [SKILLS](#skills)
+  - [EDUCATION](#education)
+
+
 ## OVERVIEW
 
-*I love APIs, Agents, and platforms.*
+<ul>*I love APIs, Agents, and platforms.*</ul>
 
 Strategic product leader with a proven track record of creating category-defining technical platforms and APIs at scale.
 
@@ -20,7 +42,7 @@ Strategic product leader with a proven track record of creating category-definin
 
 ### Product Engineering, Management, Leadership
 
-#### Head of Product, Core Platform at [Skyflow](https://www.skyflow.com/)
+#### Head of Product, Core Platform | [Skyflow](https://www.skyflow.com/)
 
 (*Apr 2025 - Present*)
 
@@ -107,15 +129,14 @@ Drove platform strategy working directly with executive leadership to shape Zend
 
 Established API product management discipline as Zendesk's first API-focused PM, creating foundational platform capabilities.
 
+- Managed a central API team and experience across all [Zendesk APIs](https://developer.zendesk.com/api-reference/).
 - Created and standardized the "API Law," and managed the API Review process, establishing consistent patterns across all Zendesk product APIs.
 - Led cross-team efforts to standardize APIs, significantly improving developer experience and adoption.
 - Managed Zendesk's channel integrations including Facebook, Twitter, and the open Channel Framework.
 - Drove API-first development methodology, enabling third-party developers to extend Zendesk's functionality.
 - Introduced API schemas and personally wrote the initial OpenAPI (fka Swagger) API schemas for Zendesk platform APIs.
 
-### Solutions Engineering
-
-#### Product Solutions Manager, Platform (& Manager of Paid Apps) | [Zendesk](https://www.zendesk.com/)
+#### Product Solutions Manager, Platform | [Zendesk](https://www.zendesk.com/)
 
 (*Feb 2015 - Feb 2016*)
 
@@ -138,8 +159,6 @@ Established the Solutions Architecture practice as the first Solutions Architect
 - Developed a library of reusable Zendesk apps using the Zendesk Apps Framework (ZAF) to address key customer challenges and fill gaps in the product.
 - Built a repeatable playbook for complex enterprise implementations, significantly improving customer success.
 
-### Support Engineering
-
 #### Level 1 Customer Advocate -> Support Engineering Team Lead | [Zendesk](https://www.zendesk.com/)
 
 (*Apr 2012 - Oct 2013*)
@@ -153,6 +172,10 @@ Established the Solutions Architecture practice as the first Solutions Architect
 
 ## SKILLS
 
+- Making building fun. I love what we do.
+- Crafting a vision, telling a story, and executing.
+- Organization, documentation, communication, automation.
+- Troubleshooting, debugging, testing, and fixing things.
 - Power user of agentic AI tools, champion of the context window.
   - [IDE] Cline (OSS VSCode extension)
   - [CLI] Claude Code CLI & GitHub Actions
@@ -161,8 +184,6 @@ Established the Solutions Architecture practice as the first Solutions Architect
     - Codex UI
   - [MCP] Browserbase, Sentry, Supabase, Figma, 7Context.
   - [LLM] LM Studio
-- Organization, documentation, communication, automation.
-- Making building fun. I love what we do.
 
 ## EDUCATION
 
