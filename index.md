@@ -2,8 +2,8 @@
 
 **You can call me Joe.**
 
-- [resume.html](https://jstjoe.github.io/docs/resume) || [resume.md](https://jstjoe.github.io/docs/resume.md)
-- [github/@jstjoe](https://github.com/jstjoe) || [linkedin/@jstjoe](https://www.linkedin.com/in/jstjoe/)
+- [resume.md](https://jstjoe.github.io/docs/resume.md) / [resume.html](https://jstjoe.github.io/docs/resume)
+- [github/@jstjoe](https://github.com/jstjoe) / [linkedin/@jstjoe](https://www.linkedin.com/in/jstjoe/)
 
 ## Basic info
 
