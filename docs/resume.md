@@ -1,4 +1,4 @@
-# Joseph McCarron | Platform Product Leader
+# Joseph McCarron
 
 [[markdown](https://jstjoe.github.io/docs/resume.md) / [html](https://jstjoe.github.io/docs/resume)]
 
