@@ -3,6 +3,7 @@
 [[markdown](https://jstjoe.github.io/docs/resume.md) / [html](https://jstjoe.github.io/docs/resume)]
 
 [github/jstjoe](https://github.com/jstjoe)
+
 [linkedin/jstjoe](https://www.linkedin.com/in/jstjoe/)
 
 ## OVERVIEW
