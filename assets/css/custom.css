@@ -1,0 +1,6 @@
+/* Custom CSS for jstjoe.github.io */
+
+/* Hide the default theme footer credits */
+.site-footer-credits {
+  display: none !important;
+}
