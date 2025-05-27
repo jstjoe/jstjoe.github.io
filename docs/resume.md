@@ -6,9 +6,9 @@
 
 ## OVERVIEW
 
->*I love APIs, Agents, and platforms.*
+>*I love APIs, agency, and platforms.*
 
-Strategic product leader with a proven track record of creating category-defining technical platforms and APIs at scale.
+Strategic product leader with a proven track record of creating category-defining technical platforms and APIs.
 
 - Built and scaled products at [Skyflow](https://www.skyflow.com/) (data privacy as an API), [Apollo GraphQL](https://apollographql.com) (enterprise API schema management), and [Zendesk](https://www.zendesk.com/) (APIs & platform).
 - Self-taught developer and professional product manager with extensive experience in APIs, interfaces, integrations, and distributed system architectures.
@@ -20,9 +20,9 @@ Strategic product leader with a proven track record of creating category-definin
 
 ### Product Engineering, Management, Leadership
 
-#### Head of Product, Core Platform | [Skyflow](https://www.skyflow.com/)
+#### Head of Product, Core Platform
 
-(*Apr 2025 - Present*)
+[Skyflow](https://www.skyflow.com/) | Apr 2025 - Present
 
 Recently promoted to manage the overall platform and drive improvements and deeper integrations across existing and emerging products, as well as drive hands-on engagements with top enterprise customers.
 
@@ -31,9 +31,9 @@ Recently promoted to manage the overall platform and drive improvements and deep
 - Selected and developed updated documentation platform, end-of-lifing legacy internal platform.
 - Developed sample apps and demos: sky_cli, Databricks Functions, Databircks AI, Skyflow GraphQL, and more internal examples.
 
-#### Product Lead | [Skyflow](https://www.skyflow.com/)
+#### Product Lead
 
-(*Jan 2022 - Apr 2025*)
+[Skyflow](https://www.skyflow.com/) | Jan 2022 - Apr 2025
 
 Leading product strategy and execution for Skyflow's data privacy vault and developer experience platform.
 
@@ -42,9 +42,9 @@ Leading product strategy and execution for Skyflow's data privacy vault and deve
 - Led platform scaling & performance efforts to achieve 1000x vault scale.
 - Led additional efforts including global company-wide hackathon, hands-on implementation of key customers, and critical sales demos to close landmark customers.
 
-#### Co-Founder and CTO | [TeamTeacher.ai](https://www.teamteacher.ai/)
+#### Co-Founder and CTO
 
-(*May 2024 - Present (Part-time)*)
+[TeamTeacher.ai](https://www.teamteacher.ai/) | May 2024 - Present (part-time)
 
 Solo engineer and CTO building an AI teaching assistant agent for educators, partnering with my sister (a teacher) as CEO.
 
@@ -56,19 +56,20 @@ Solo engineer and CTO building an AI teaching assistant agent for educators, par
 - Built a custom eval framework using Google Sheets to test 1000 prompt combinations with a novel LLM-as-judge and re-eval options -> drove 12 iterations to agentic architecture.
 - Implemented and tested integrations with tools including: Supabase (& pgvector), LangChain, LangGraph, LlamaIndex, Pinecone, Qdrant, Google Drive, Tavily Search, AI SDK, and more.
 
-#### Staff Product Manager | [Apollo GraphQL](https://apollographql.com)
+#### Staff Product Manager
 
-(*Oct 2020 - Jan 2022*)
+[Apollo GraphQL](https://apollographql.com) | Oct 2020 - Jan 2022
 
 Led platform product strategy for the Apollo GraphQL Platform including Apollo Studio, Schema Checks, Build Checks, Uplink, Schema Contracts and more.
 
 - Created Apollo Schema Contracts, an enterprise feature enabling organizations to tailor GraphQL schemas for different audiences while maintaining a unified graph.
 - Led development of the core SaaS platform including [Schema Management](https://www.apollographql.com/docs/graphos/platform/schema-management), [Metrics](https://www.apollographql.com/docs/graphos/platform/insights), [Federation](https://www.apollographql.com/docs/graphos/schema-design/federated-schemas/federation), [Contracts](https://www.apollographql.com/docs/graphos/platform/schema-management/delivery/contracts/overview), the [Platform API](https://www.apollographql.com/docs/graphos/platform/platform-api), [Webhooks](https://www.apollographql.com/blog/webhooks), and [Uplink](https://www.apollographql.com/docs/graphos/routing/uplink).
-- Developed and executed the product roadmap for the GraphOS platform used at scale at companies including eBay, Expedia, Walmart, and Wayfair.
+- Developed and executed the product roadmap for the GraphOS platform used at scale at companies including eBay, Expedia, Netflix, Walmart, and Wayfair.
+- Drove 3x product-led enterprise growth in one year.
 
-#### Group Product Manager, APIs & Platform | [Zendesk](https://www.zendesk.com/)
+#### Group Product Manager, APIs & Platform
 
-(*Jul 2019 - Jan 2020*)
+[Zendesk](https://www.zendesk.com/) | Jul 2019 - Jan 2020
 
 Led Zendesk's transformative platform initiative, creating a new category in the CRM space with Sunshine, built natively on AWS.
 
@@ -77,11 +78,11 @@ Led Zendesk's transformative platform initiative, creating a new category in the
 - Led architectural vision sessions with the CEO for strategic customers including Uber, Lyft, Airbnb, Disney, and T-Mobile.
 - Delivered a platform that unified customer data across systems, creating a complete view of customer interactions.
 - Created an open, flexible platform that enabled developers to build custom experiences on Zendesk infrastructure.
-- Managed acquisition of Smooch for the Platform team, d
+- Managed acquisition of Smooch for the Platform team, driving key messaging and API integration initiatives.
 
-#### Lead Product Manager, Platform | [Zendesk](https://www.zendesk.com/)
+#### Lead Product Manager, Platform
 
-(*Jul 2018 - Jul 2019*)
+[Zendesk](https://www.zendesk.com/) | July 2018 - July 2019
 
 Spearheaded the development and launch of Zendesk Sunshine, a modern CRM platform that fundamentally changed Zendesk's market position.
 
@@ -90,9 +91,9 @@ Spearheaded the development and launch of Zendesk Sunshine, a modern CRM platfor
 - Developed and launched WhatsApp integration in close partnership with Facebook, improving messaging capabilities and delivering market-leading messaging capabilities (improving Whatsapp's API strategy along the way).
 - Created the foundation for Zendesk's API-first integrated platform strategy, enabling customers to connect all their customer data and systems to provide context and challenge market leaders.
 
-#### Senior Product Manager, Platform | [Zendesk](https://www.zendesk.com/)
+#### Senior Product Manager, Platform
 
-(*Jan 2018 - Jul 2018*)
+[Zendesk](https://www.zendesk.com/) | January 2018 - July 2018
 
 Drove platform strategy working directly with executive leadership to shape Zendesk's technical future.
 
@@ -101,9 +102,9 @@ Drove platform strategy working directly with executive leadership to shape Zend
 - Led adoption of modern platform technologies including Kubernetes, Cassandra DB, Kafka, and AWS infrastructure.
 - Acted as product partner ("Product Architect") to the Global Architecture team, driving technical consistency across product lines.
 
-#### Product Manager, APIs | [Zendesk](https://www.zendesk.com/)
+#### Product Manager, APIs
 
-(*Feb 2016 - Jan 2018*)
+[Zendesk](https://www.zendesk.com/) | February 2016 - January 2018
 
 Established API product management discipline as Zendesk's first API-focused PM, creating foundational platform capabilities.
 
@@ -114,9 +115,9 @@ Established API product management discipline as Zendesk's first API-focused PM,
 - Drove API-first development methodology, enabling third-party developers to extend Zendesk's functionality.
 - Introduced API schemas and personally wrote the initial OpenAPI (fka Swagger) API schemas for Zendesk platform APIs.
 
-#### Product Solutions Manager, Platform | [Zendesk](https://www.zendesk.com/)
+#### Product Solutions Manager, Platform
 
-(*Feb 2015 - Feb 2016*)
+[Zendesk](https://www.zendesk.com/) | Feb 2015 - Feb 2016
 
 Pioneered technical solutions for enterprise platform customers and created the first paid apps development team.
 
@@ -126,9 +127,9 @@ Pioneered technical solutions for enterprise platform customers and created the 
 - Personally built, managed, and delivered 15+ reusable applications - including 6 of the Top 10 apps - using the Zendesk Apps Framework (ZAF) to solve critical customer problems.
 - Led discovery, design, and implementation of highest-value enterprise platform solutions.
 
-#### Solutions Architect (& Engineer) | [Zendesk](https://www.zendesk.com/)
+#### Solutions Architect (& Engineer)
 
-(*Oct 2013 - Feb 2015*)
+[Zendesk](https://www.zendesk.com/) | Oct 2013 - Feb 2015
 
 Established the Solutions Architecture practice as the first Solutions Architect at Zendesk, creating technical solutions for enterprise customers.
 
@@ -137,9 +138,9 @@ Established the Solutions Architecture practice as the first Solutions Architect
 - Developed a library of reusable Zendesk apps using the Zendesk Apps Framework (ZAF) to address key customer challenges and fill gaps in the product.
 - Built a repeatable playbook for complex enterprise implementations, significantly improving customer success.
 
-#### Level 1 Customer Advocate -> Support Engineering Team Lead | [Zendesk](https://www.zendesk.com/)
+#### Level 1 Customer Advocate -> Support Engineering Team Lead
 
-(*Apr 2012 - Oct 2013*)
+[Zendesk](https://www.zendesk.com/) | Apr 2012 - Oct 2013
 
 - Went from *"Hello this is Joe from Zendesk, how can I help?"* as employee 227, to creating and leading the Support Engineering team and beyond.
 - Specialized in API, webhook, and integration troubleshooting for enterprise customers. Worked with engineering on API improvements and bug fixes as the defacto API PM.
