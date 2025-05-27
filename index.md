@@ -20,10 +20,10 @@
 
 ### Active
 
-- [TeamTeacher](https://www.teamteacher.ai/) - Developer
-- [Doc Detective](https://doc-detective.com/) - Operator
-- [SkyflowFoundry](https://github.com/SkyflowFoundry) - Creator
-- [Skyflow](https://www.skyflow.com) - Product Lead
+- **[TeamTeacher](https://www.teamteacher.ai/)** - Developer
+- **[Doc Detective](https://doc-detective.com/)** - Operator
+- **[Skyflow](https://www.skyflow.com)** - Product Lead
+  - [SkyflowFoundry](https://github.com/SkyflowFoundry) - Creator & Contributor
 
 ### Previous
 
