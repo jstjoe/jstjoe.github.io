@@ -2,9 +2,7 @@
 
 [[markdown](https://jstjoe.github.io/docs/resume.md) / [html](https://jstjoe.github.io/docs/resume)]
 
-[![gh](../assets/images/gh.png)](https://github.com/jstjoe)
-
-[![li](https://jstjoe.github.io/assets/images/li.png)](https://www.linkedin.com/in/jstjoe/)
+[![gh](../assets/images/gh.png)](https://github.com/jstjoe) [![li](https://jstjoe.github.io/assets/images/li.png)](https://www.linkedin.com/in/jstjoe/)
 
 ## OVERVIEW
 
